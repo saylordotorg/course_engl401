@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL401: Shakespeare"
+course_description: "A detailed study of Shakespeare’s life, literary works, historical and philosophical contexts, and a close examination of his poetry and six of his major plays: A Midsummer Night’s Dream, Twelfth Night, Macbeth, Hamlet, Richard III and Henry V."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Poetry** <span id="5"></span> 
 *While he is now best known for his stage dramas, William Shakespeare
 was also one of the most adept and gifted poets in the English

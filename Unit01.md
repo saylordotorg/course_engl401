@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL401: Shakespeare"
+course_description: "A detailed study of Shakespeare’s life, literary works, historical and philosophical contexts, and a close examination of his poetry and six of his major plays: A Midsummer Night’s Dream, Twelfth Night, Macbeth, Hamlet, Richard III and Henry V."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introductions to the Legend** <span id="1"></span> 
 *Despite his celebrity, many of the details of William Shakespeare’s
 personal life remain a mystery.  Nevertheless, we will learn what we can

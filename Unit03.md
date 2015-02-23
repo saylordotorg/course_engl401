@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL401: Shakespeare"
+course_description: "A detailed study of Shakespeare’s life, literary works, historical and philosophical contexts, and a close examination of his poetry and six of his major plays: A Midsummer Night’s Dream, Twelfth Night, Macbeth, Hamlet, Richard III and Henry V."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Tragedies** <span id="3"></span> 
 *In this unit, we will read two of Shakespeare’s most famous tragedies,
 analyzing their various thematic, structural, and linguistic

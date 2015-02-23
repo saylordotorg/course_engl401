@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL401: Shakespeare"
+course_description: "A detailed study of Shakespeare’s life, literary works, historical and philosophical contexts, and a close examination of his poetry and six of his major plays: A Midsummer Night’s Dream, Twelfth Night, Macbeth, Hamlet, Richard III and Henry V."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Comedies** <span id="2"></span> 
 **In its Elizabethan usage, a “comedy” is a play that ends happily,
 typically moving from a situation of mistaken identities and humorous

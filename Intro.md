@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL401: Shakespeare"
+course_description: "A detailed study of Shakespeare’s life, literary works, historical and philosophical contexts, and a close examination of his poetry and six of his major plays: A Midsummer Night’s Dream, Twelfth Night, Macbeth, Hamlet, Richard III and Henry V."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL401: Shakespeare"
 ------------------------------------------
 
