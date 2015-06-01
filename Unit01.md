@@ -85,10 +85,8 @@ Upon successful completion of this unit, the student will be able to:
 
 **1.1 Who Is Shakespeare?**
 **1.1.1 Brief Biographic Snapshot**
--   **Reading: Shakespeare-literature.com’s “William Shakespeare
-    Biography”**
-    Link:  [Shakespeare-literature.com’s “William Shakespeare
-    Biography”](http://www.shakespeare-literature.com/l_biography.html)
+-   **Reading: Folger Shakespeare Library’s “Shakespeare's Life”**
+    Link:  Folger Shakespeare Library’s ["Shakespeare's Life"](http://www.folger.edu/shakespeares-life)
     (HTML)  
         
      Instructions:  Please scroll down and read the entirety of this
@@ -97,8 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     collect and write down the aspects of his biography that you believe
     might be helpful in understanding his work.    
           
-     About the link:  Shakespeare-literature.com is a website dedicated
-    to Shakespeare and his work.    
+     About the link: The Folger Shakespeare Library is a research library in Washington, D.C. It is home to the         largest Shakespeare collection in the world.
         
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
@@ -264,13 +261,10 @@ Upon successful completion of this unit, the student will be able to:
 **1.3.1 Queen Elizabeth—Life and Legacy**
 -   **Reading: The Saylor Foundation: Tudorhistory.org's "Elizabeth I:
     Queen of England"**
-    Link: The Saylor Foundation: Tudorhistory.org's "[Elizabeth I: Queen
-    of
-    England](http://www.saylor.org/site/wp-content/uploads/2012/10/ENGL401-Elizabeth-1-Tudorhistory.org_.pdf)"
-    (PDF)  
+    Link: The Saylor Foundation: Tudorhistory.org's "[Elizabeth I: Queen of England](http://www.saylor.org/site/wp-content/uploads/2012/10/ENGL401-Elizabeth-1-Tudorhistory.org_.pdf)" (PDF)  
       
      Also Available in:  
-     [HTML](http://tudorhistory.org/elizabeth/queen.html)  
+    [HTML](http://tudorhistory.org/elizabeth/queen.html)  
       
      Instructions: Please scroll down and read the entirety of
     Tudorhistory.org's brief introduction to Queen Elizabeth I's
