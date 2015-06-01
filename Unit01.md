@@ -1,4 +1,4 @@
-**Unit 1: Introductions to the Legend** <span id="1"></span> 
+**Unit 1: Introductions to the Legend**
 *Despite his celebrity, many of the details of William Shakespeare’s
 personal life remain a mystery.  Nevertheless, we will learn what we can
 about who Shakespeare was by first reviewing the few facts known about
@@ -13,53 +13,57 @@ theater.*
 **Unit 1 Time Advisory**  
 This unit will take you 34.5 hours to complete.  
   
- ☐    Subunit 1.1: 5 hours  
-☐    Subunit 1.1.1: .5 hours  
-  
- ☐    Subunit 1.1.2: 1 hour  
-  
- ☐    Subunit 1.1.3: 1 hour  
-  
- ☐    Subunit 1.1.4: 1 hour  
-  
- ☐    Subunit 1.1.5: .5 hours
+☐    Subunit 1.1: 5 hours  
+
+☐    Subunit 1.1.1: .5 hours
+
+☐    Subunit 1.1.2: 1 hour
+
+☐    Subunit 1.1.3: 1 hour
+
+☐    Subunit 1.1.4: 1 hour  
+
+☐    Subunit 1.1.5: .5 hours
 
 ☐    Subunit 1.2: 4.5 hours
+
 ☐    Subunit 1.2.1: 1 hour  
-  
- ☐    Subunit 1.2.2: .5 hours  
-  
- ☐    Subunit 1.2.3: 1 hour  
-  
- ☐    Subunit 1.2.4: 1 hour  
-  
- ☐    Subunit 1.2.5: 1 hour
+
+☐    Subunit 1.2.2: .5 hours  
+
+☐    Subunit 1.2.3: 1 hour  
+
+☐    Subunit 1.2.4: 1 hour  
+
+☐    Subunit 1.2.5: 1 hour
 
 ☐    Subunit 1.3: 5.5 hours
+
 ☐    Subunit 1.3.1: .5 hours  
-  
- ☐    Subunit 1.3.2: .5 hours  
-  
- ☐    Subunit 1.3.3: .5 hours  
-  
- ☐    Subunit 1.3.4: 1 hour  
-  
- ☐    Subunit 1.3.5: 1 hour  
-  
- ☐    Subunit 1.3.6: 1 hour  
-  
- ☐    Subunit 1.3.7: 1 hour
+
+☐    Subunit 1.3.2: .5 hours  
+
+☐    Subunit 1.3.3: .5 hours  
+
+☐    Subunit 1.3.4: 1 hour  
+
+☐    Subunit 1.3.5: 1 hour  
+
+☐    Subunit 1.3.6: 1 hour  
+
+☐    Subunit 1.3.7: 1 hour
 
 ☐    Subunit 1.4: 6 hours  
-  
- ☐    Subunit 1.5: 11.5 hours
+
+☐    Subunit 1.5: 11.5 hours
+
 ☐    Subunit 1.5.1 1 hour  
-  
- ☐    Subunit 1.5.2: 6 hours  
-  
- ☐    Subunit 1.5.3: 4 hours  
-  
- ☐    Subunit 1.5.4: .5 hours
+
+☐    Subunit 1.5.2: 6 hours  
+
+☐    Subunit 1.5.3: 4 hours  
+
+☐    Subunit 1.5.4: .5 hours
 
 ☐    Subunit 1.6: 2 hours
 
@@ -79,12 +83,11 @@ Upon successful completion of this unit, the student will be able to:
 -   Provide an account of the importance of the Globe theater as well as
     of Shakespeare’s debts to Christopher Marlowe.
 
-**1.1 Who Is Shakespeare?** <span id="1.1"></span> 
-**1.1.1 Brief Biographic Snapshot** <span id="1.1.1"></span> 
+**1.1 Who Is Shakespeare?**
+**1.1.1 Brief Biographic Snapshot**
 -   **Reading: Shakespeare-literature.com’s “William Shakespeare
     Biography”**
-    Link:  [Shakespeare-literature.com’s “<span
-    style="display: none; "> </span>William Shakespeare
+    Link:  [Shakespeare-literature.com’s “William Shakespeare
     Biography”](http://www.shakespeare-literature.com/l_biography.html)
     (HTML)  
         
@@ -101,7 +104,6 @@ Upon successful completion of this unit, the student will be able to:
     displayed on the webpage above.
 
 **1.1.2 Shakespeare’s Education and Extraordinary Talent with Language**
-<span id="1.1.2"></span> 
 -   **Reading: Shakespeare-online.com’s “Shakespeare’s Education and
     Childhood” and “Shakespeare’s Lost Years”**
     Links:  Shakespeare-online.com’s ["Shakespeare’s Education and
@@ -123,8 +125,7 @@ Upon successful completion of this unit, the student will be able to:
      Terms of Use:  Please respect the copyrights and terms of use
     displayed on the webpages above.
 
-**1.1.3 Shakespeare as Dramatist and Poet—Overview of His Oeuvre** <span
-id="1.1.3"></span> 
+**1.1.3 Shakespeare as Dramatist and Poet—Overview of His Oeuvre**
 -   **Reading: Bardweb.net’s “Shakespeare’s Works”**
     Link:  Bardweb.net’s [“Shakespeare’s
     Works”](http://www.bardweb.net/works.html) (HTML)  
@@ -140,10 +141,8 @@ id="1.1.3"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.1.4 The Legacy: Thoughts on Shakespeare’s Impact of Language, Canon,
-and Culture** <span id="1.1.4"></span> 
--   **Reading: Bridgewater College: Dr. Alice Trupe’s “Excerpts from The
-    Western Canon by Harold Bloom”**
+**1.1.4 The Legacy: Thoughts on Shakespeare’s Impact of Language, Canon,and Culture**
+-   **Reading: Bridgewater College: Dr. Alice Trupe’s “Excerpts from TheWestern Canon by Harold Bloom”**
     Link:  Bridgewater College:  Dr. Alice Trupe’s [*“Excerpts from The
     Western Canon by Harold
     Bloom”*](http://people.bridgewater.edu/%7Eatrupe/ENG_102/Bloom_excerpts.htm)
@@ -162,7 +161,7 @@ and Culture** <span id="1.1.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.1.5 Shakespeare on Film** <span id="1.1.5"></span> 
+**1.1.5 Shakespeare on Film**
 -   **Reading: The Saylor Foundation’s “Shakespeare on Film”**
     Link: The Saylor Foundation’s “[Shakespeare on
     Film](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SHAKESPEARE-ON-FILM.pdf)”
@@ -173,8 +172,8 @@ and Culture** <span id="1.1.4"></span> 
     in this course.  If possible, please view one of these films.  You
     can find a copy of most of these films in video stores or online. 
 
-**1.2 Shakespeare’s Times: The Renaissance** <span id="1.2"></span> 
-**1.2.1 Progression of the Renaissance** <span id="1.2.1"></span> 
+**1.2 Shakespeare’s Times: The Renaissance**
+**1.2.1 Progression of the Renaissance** 
 -   **Reading: City University of New York (Brooklyn College): Dr. Lilia
     Melani’s Introduction to the “Renaissance”**
     Link:  City University of New York (Brooklyn College):  [Dr. Lilia
@@ -194,7 +193,7 @@ and Culture** <span id="1.1.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.2.2 Humanism** <span id="1.2.2"></span> 
+**1.2.2 Humanism**
 -   **Reading: The Saylor Foundation’s Introduction to “Humanism”**
     Link:  The Saylor Foundation’s [Introduction to
     “Humanism”](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-RENAISSANCE-HUMANISM-SHAKESPEARE.pdf)
@@ -208,7 +207,7 @@ and Culture** <span id="1.1.4"></span> 
     Attribution 3.0 Unported
     License](http://creativecommons.org/licenses/by/3.0/).
 
-**1.2.3 Utopianism** <span id="1.2.3"></span> 
+**1.2.3 Utopianism**
 -   **Reading: The Saylor Foundation's version of Thomas More’s Utopia**
     Link: The Saylor Foundation's version of Thomas More’s
     [*Utopia*](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-UTOPIA.pdf)
@@ -226,7 +225,7 @@ and Culture** <span id="1.1.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the links above.
 
-**1.2.4 Recovery of Classical Antiquity** <span id="1.2.4"></span> 
+**1.2.4 Recovery of Classical Antiquity**
 -   **Reading: The Metropolitan Museum of Art’s “The Discovery of
     Classical Antiquity”**
     Link:  The Metropolitan Museum of Art’s [“The Discovery of Classical
@@ -245,7 +244,7 @@ and Culture** <span id="1.1.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.2.5 Characteristics of Renaissance Art** <span id="1.2.5"></span> 
+**1.2.5 Characteristics of Renaissance Art**
 -   **Web Media: YouTube: Introduction to “Italian Renaissance Art”**
     Link:   [Introduction to “Italian Renaissance
     Art”](http://www.youtube.com/watch?v=rVQBVE9BzYk&feature=related)
@@ -261,8 +260,8 @@ and Culture** <span id="1.1.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.3 Life in the Elizabethan Era** <span id="1.3"></span> 
-**1.3.1 Queen Elizabeth—Life and Legacy** <span id="1.3.1"></span> 
+**1.3 Life in the Elizabethan Era**
+**1.3.1 Queen Elizabeth—Life and Legacy**
 -   **Reading: The Saylor Foundation: Tudorhistory.org's "Elizabeth I:
     Queen of England"**
     Link: The Saylor Foundation: Tudorhistory.org's "[Elizabeth I: Queen
@@ -284,10 +283,9 @@ and Culture** <span id="1.1.4"></span> 
     reproduced in any capacity without explicit permission from the
     copyright holder.  
 
-**1.3.2 The Growth of the City and City Life** <span id="1.3.2"></span> 
+**1.3.2 The Growth of the City and City Life**
 -   **Reading: Elizabethan.org’s “The City of London”**
-    Link:  Elizabethan.org’s [“The City of
-    London”](http://www.elizabethan.org/compendium/27.html) (HTML)  
+    Link:  Elizabethan.org’s [“The City of London”](http://www.elizabethan.org/compendium/27.html) (HTML)  
         
      Instructions:  Please scroll down and read the entirety of this
     webpage describing London city life during the Elizabethan era.
@@ -301,7 +299,7 @@ and Culture** <span id="1.1.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.3.3 Views of the Elizabethan Monarchy** <span id="1.3.3"></span> 
+**1.3.3 Views of the Elizabethan Monarchy**
 -   **Reading: The Saylor Foundation's "Elizabethan Government and
     Power"**
     Link: The Saylor Foundation's "[Elizabethan Government and
@@ -311,8 +309,7 @@ and Culture** <span id="1.1.4"></span> 
      Instructions: Please read the passage detailing Elizabethan
     government and power.
 
-**1.3.4 Social Relations in Elizabethan England** <span
-id="1.3.4"></span> 
+**1.3.4 Social Relations in Elizabethan England**
 -   **Reading: Walter Nelson’s “The Structure of Elizabethan Society”**
     Link: Walter Nelson’s  [“The Structure of Elizabethan
     Society”](http://walternelson.com/dr/node/246) (HTML)  
@@ -328,7 +325,7 @@ id="1.3.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.3.5 Leisure in Elizabethan Times** <span id="1.3.5"></span> 
+**1.3.5 Leisure in Elizabethan Times**
 -   **Reading: Academic.ru’s Introduction to “Elizabethan Leisure”**
     Link:  Academic.ru’s Introduction to [“Elizabethan
     Leisure”](http://en.academic.ru/dic.nsf/enwiki/4848779) (HTML)  
@@ -342,8 +339,7 @@ id="1.3.4"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.3.6 An Expanding Globe: Explorers in the New World** <span
-id="1.3.6"></span> 
+**1.3.6 An Expanding Globe: Explorers in the New World**
 -   **Reading: University of Wisconsin, Madison: Dr. Johann P.
     Sommerville’s Introduction to “Elizabethan Exploration”**
     Link:  University of Wisconsin, Madison:  Dr. Johann P.
@@ -362,7 +358,7 @@ id="1.3.6"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.3.7 Religion in the Elizabethan Period** <span id="1.3.7"></span> 
+**1.3.7 Religion in the Elizabethan Period**
 -   **Reading: ErasofElegance.com’s Introduction to “Religion and
     Spirituality” in Elizabethan England**
     Link:  ErasofElegance.com’s [Introduction to “Religion and
@@ -381,9 +377,9 @@ id="1.3.6"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.4 Arts in the Elizabethan Era** <span id="1.4"></span> 
+**1.4 Arts in the Elizabethan Era**
 **1.4.1 Overview of Queen Elizabeth’s Patronage and Interest in the
-Arts** <span id="1.4.1"></span> 
+Arts**
 -   **Reading: Shakespeare-online.com’s “Queen Elizabeth: Shakespeare’s
     Patron”**
     Link: Shakespeare-online.com’s [“Queen Elizabeth:  Shakespeare’s
@@ -400,7 +396,7 @@ Arts** <span id="1.4.1"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.4.2 Elizabethan Poetic Conventions** <span id="1.4.2"></span> 
+**1.4.2 Elizabethan Poetic Conventions**
 -   **Reading: Luminarium’s version of Sir Philip Sidney’s Astrophil and
     Stella; Goucher College: Dr. Arnie Sanders’ Introduction to “Sir
     Philip Sidney’s Astrophil and Stella;” and Sir Philip Sidney’s
@@ -435,7 +431,6 @@ Arts** <span id="1.4.1"></span> 
     displayed on the webpages above.
 
 **1.4.3 Elizabethan Theater, Theater Companies, and Theater-Going**
-<span id="1.4.3"></span> 
 -   **Reading: Encyclopedia Britannica’s Introduction to “Elizabethan
     Theatre”**
     Link:  Encyclopedia Britannica’s [Introduction to “Elizabethan
@@ -452,7 +447,7 @@ Arts** <span id="1.4.1"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.4.4 The Globe** <span id="1.4.4"></span> 
+**1.4.4 The Globe**
 -   **Reading: William-Shakespeare.info: “The Old Globe Theater
     History"; The Orange Grove: Clemson University: Karl Herbst’s
     “Virtual Globe Virtual Tour”**
@@ -476,8 +471,7 @@ Arts** <span id="1.4.1"></span> 
     displayed on the webpages above.
 
 **1.5 Shakespeare’s Inheritance: Dramatic Conventions and Traditions**
-<span id="1.5"></span> 
-**1.5.1 The Influence of Medieval Drama** <span id="1.5.1"></span> 
+**1.5.1 The Influence of Medieval Drama**
 -   **Reading: Luminarium.org’s “Renaissance English Drama: From
     Medieval to Renaissance”**
     Link:  Luminarium.org’s [“Renaissance English Drama: From Medieval
@@ -495,8 +489,7 @@ Arts** <span id="1.4.1"></span> 
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
 
-**1.5.2 Relationship with and Debts to Christopher Marlowe** <span
-id="1.5.2"></span> 
+**1.5.2 Relationship with and Debts to Christopher Marlowe**
 -   **Reading: Christopher Marlowe’s The Tragical History of Doctor
     Faustus and PBS.org’s “In Search of Shakespeare: Christopher
     Marlowe”**
@@ -511,8 +504,7 @@ id="1.5.2"></span> 
      Terms of Use:  Please respect the copyrights and terms of use
     displayed on the webpages above.
 
-**1.5.3 The Masque in the Court of Queen England** <span
-id="1.5.3"></span> 
+**1.5.3 The Masque in the Court of Queen England**
 -   **Reading: Ben Jonson’s The Masque of Blackness and
     Elizabethan-era.org’s Introduction to “Elizabethan Masques”**
     Links: Ben Jonson’s [*The Masque of
@@ -532,7 +524,7 @@ id="1.5.3"></span> 
      Terms of Use:  Please respect the copyrights and terms of use
     displayed on the webpages above.
 
-**1.5.4 Shakespeare’s Patrons** <span id="1.5.4"></span> 
+**1.5.4 Shakespeare’s Patrons**
 -   **Reading: Shakespeare-online.com: “King’s James I: Shakespeare’s
     Patron”**
     Link:  Shakespeare-online.com: [“King’s James I: Shakespeare’s
@@ -551,7 +543,6 @@ id="1.5.3"></span> 
     displayed on the webpage above.
 
 **1.6 Term Toolkit: Review of Dramatic/Theatrical Jargon and Concepts**
-<span id="1.6"></span> 
 -   **Reading: McGraw-Hill’s “Glossary of Drama Terms”**
     Link:  McGraw-Hill’s [“Glossary of Drama
     Terms”](http://highered.mcgraw-hill.com/sites/0072405228/student_view0/drama_glossary.html) (HTML)  
@@ -565,5 +556,3 @@ id="1.5.3"></span> 
         
      Terms of Use:  Please respect the copyright and terms of use
     displayed on the webpage above.
-
-
