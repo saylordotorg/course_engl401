@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "ENGL401: Shakespeare"
@@ -9,7 +8,6 @@ previous: ../Intro
 **Unit 1: Introductions to the Legend** <span id="1"></span> 
 =======
 **Unit 1: Introductions to the Legend**
->>>>>>> dbb83141f2f9d4b6d06dc6222392509d11430dde
 *Despite his celebrity, many of the details of William Shakespeare’s
 personal life remain a mystery.  Nevertheless, we will learn what we can
 about who Shakespeare was by first reviewing the few facts known about
