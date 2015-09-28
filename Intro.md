@@ -80,3 +80,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 4](https://legacy.saylor.org/engl401/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl401/Unit05/)
 - [Unit 6](https://legacy.saylor.org/engl401/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL401/ENGL401-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL401/ENGL401-FinalExam-Answers.html)
