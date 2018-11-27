@@ -53,11 +53,11 @@ id="3.1.1"></span> 
     and “Classical Greek Tragedy III”**
     Link: Utah State University: Mark Damen’s *Classical Drama and
     Society*: [“Classical Greek Tragedy
-    I,”](http://www.saylor.org/site/wp-content/uploads/2013/04/ENGL401-3.1.1-ClassicalGreekTragedyPart1.pdf) (PDF)
+    I,”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL401-3.1.1-ClassicalGreekTragedyPart1.pdf) (PDF)
     [“Classical Greek Tragedy
-    II,”](http://www.saylor.org/site/wp-content/uploads/2013/04/ENGL401-3.1.1-ClassicalGreekTragedyPart2.pdf)
+    II,”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL401-3.1.1-ClassicalGreekTragedyPart2.pdf)
     (PDF) and [“Classical Greek Tragedy
-    III”](http://www.saylor.org/site/wp-content/uploads/2013/04/ENGL401-3.1.1-ClassicalGreekTragedyPart3.pdf)
+    III”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL401-3.1.1-ClassicalGreekTragedyPart3.pdf)
     (PDF)  
         
      Instructions: Read these pages, which are intended to provide you
@@ -151,7 +151,7 @@ id="3.1.4"></span> 
     Hamlet and Vancouver Island University: Dr. Ian Johnston’s
     “Introductory Lecture on Shakespeare’s Hamlet”**
     Links: The Saylor Foundation's version of William Shakespeare's
-    [*Hamlet*](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-HAMLET.pdf)
+    [*Hamlet*](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-HAMLET.pdf)
     (PDF), Vancouver Island University: Dr. Ian
     Johnston’s [“Introductory Lecture on Shakespeare’s
     Hamlet”](http://records.viu.ca/%7Ejohnstoi/eng366/lectures/hamlet.htm) (HTML)  
@@ -259,7 +259,7 @@ id="3.2.4"></span> 
     Macbeth and Vancouver Island University: Dr. Ian Johnston’s
     “Introduction to Macbeth”**
     Links: The Saylor Foundation's version of William Shakespeare's
-    [*Macbeth*](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-MACBETH.pdf)
+    [*Macbeth*](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-MACBETH.pdf)
     (PDF) and Vancouver Island University: Dr. Ian
     Johnston’s [“Introduction to
     Macbeth”](http://records.viu.ca/%7Ejohnstoi/eng366/lectures/macbeth.htm) (HTML)  

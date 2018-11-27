@@ -83,7 +83,7 @@ Upon successful completion of this unit, the student will be able to:
     Venus and Adonis**
     Links: The Saylor Foundation's version of William Shakespeare’s
     [Venus and
-    Adonis](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-VENUS-AND-ADONIS.pdf) (PDF)
+    Adonis](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-VENUS-AND-ADONIS.pdf) (PDF)
     and The Folger Shakespeare Library: *[Introduction to Venus and
     Adonis](http://www.folger.edu/template.cfm?cid=2889) *(HTML)  
         
@@ -108,12 +108,12 @@ and Marlowe’s Hero and Leander** <span id="5.2.2"></span> 
     Influence of Ovid’s Metamorphoses and Marlowe’s Hero and Leander
     upon Shakespeare’s Venus and Adonis"**
      Links:  The Saylor Foundation's versions of Ovid’s
-    [Metamorphoses](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-METAMORPHOSES.pdf%20)(PDF)
+    [Metamorphoses](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-METAMORPHOSES.pdf%20)(PDF)
     and Marlowe’s [*Hero and
-    Leander*](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-HERO-LEANDER.pdf%20) (PDF);
+    Leander*](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-HERO-LEANDER.pdf%20) (PDF);
     and The Saylor Foundation's "[The Influence of Ovid’s Metamorphoses
     and Marlowe’s Hero and Leander upon Shakespeare’s Venus and
-    Adonis](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-INFLUENCES-VENUS-AND-ADONIS.pdf)<span
+    Adonis](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-INFLUENCES-VENUS-AND-ADONIS.pdf)<span
     class="Apple-style-span"
     style="color: rgb(34, 34, 34); ">" (PDF)</span>  
       
@@ -184,7 +184,7 @@ id="5.3.1"></span> 
     and “Commentary” upon The Rape of Lucrece**
     Links: The Saylor Foundation's version of William Shakespeare’s [The
     Rape of
-    Lucrece](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-RAPE-OF-LUCRECE.pdf) (PDF)
+    Lucrece](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-RAPE-OF-LUCRECE.pdf) (PDF)
     and Hudson Shakespeare Company’s *[Introduction to and “Commentary”
     upon The Rape of
     Lucrece](http://hudsonshakespeare.org/Shakespeare%20Library/Commentaries/commrape_of_lucrece.htm) *(HTML)  
@@ -274,7 +274,7 @@ id="5.4.2"></span> 
     “Shakespeare and the Fair Youth”**
     Links: The Saylor Foundation's version of William Shakespeare’s
     [Sonnets
-    1-126](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-I-CXXVI.pdf)
+    1-126](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-I-CXXVI.pdf)
     (PDF) and Shakespeare Oxford Society: Charlton Ogburn, Jr.’s
     [“Shakespeare and the Fair
     Youth”](http://www.shakespeare-oxford.com/?p=75) (HTML)  
@@ -282,7 +282,7 @@ id="5.4.2"></span> 
      Also available in (complete sonnets)  
      [HTML](http://www.gutenberg.org/cache/epub/1041/pg1041.html)  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-COMPLETE.pdf)  
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-COMPLETE.pdf)  
       
      Instructions:  Please the first 126 sonnets (to "CXXVI") in
     Shakespeare’s text as well as the entirety of Ogburn, Jr.’s essay
@@ -303,7 +303,7 @@ id="5.4.3"></span> 
     Shakespeare’s “Dark Lady Sonnets”**
     Links: The Saylor Foundation's version of William Shakespeare’s
     [Sonnets
-    127-152](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-CXXVII-CLII.pdf) (PDF)
+    127-152](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-CXXVII-CLII.pdf) (PDF)
     and Hudson Shakespeare Company’s [Introduction to Shakespeare’s
     “Dark Lady
     Sonnets”](http://hudsonshakespeare.org/Shakespeare%20Library/sonnets/dark_lady_sonnets.htm) (HTML)  
@@ -311,7 +311,7 @@ id="5.4.3"></span> 
      Also available in (complete sonnets):  
      [HTML](http://www.gutenberg.org/cache/epub/1041/pg1041.html)  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-COMPLETE.pdf)  
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-COMPLETE.pdf)  
       
      Instructions:  Please read the sonnets named above ("CXXVI" to
     "CLII") in Shakespeare’s text, as well as the entirety of Hudson
@@ -331,14 +331,14 @@ id="5.4.3"></span> 
     153 (CLIII)”**
     Links: The Saylor Foundation's version of William Shakespeare’s
     [Sonnets
-    153-154](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-CLIII-CLIV.pdf) (PDF)
+    153-154](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-CLIII-CLIV.pdf) (PDF)
     and Shakespeares-Sonnets.com’s [“Commentary on Sonnet 153
     (CLIII)”](http://www.shakespeares-sonnets.com/153comm.htm) (HTML)   
       
      Also available in (complete sonnets):  
      [HTML](http://www.gutenberg.org/cache/epub/1041/pg1041.html)  
 
-    [PDF](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-COMPLETE.pdf)  
+    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SONNETS-COMPLETE.pdf)  
         
      Instructions:  Please read the sonnets named above ("CLIII" to
     "CLIV") in Shakespeare’s text.  Also, please read the entirety of

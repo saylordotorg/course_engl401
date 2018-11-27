@@ -161,7 +161,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1.5 Shakespeare on Film**
 -   **Reading: The Saylor Foundation’s “Shakespeare on Film”**
     Link: The Saylor Foundation’s “[Shakespeare on
-    Film](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SHAKESPEARE-ON-FILM.pdf)”
+    Film](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-SHAKESPEARE-ON-FILM.pdf)”
     (PDF)  
                   
      Instructions: Please read this brief piece on film productions,
@@ -193,7 +193,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.2.2 Humanism**
 -   **Reading: The Saylor Foundation’s Introduction to “Humanism”**
     Link:  The Saylor Foundation’s [Introduction to
-    “Humanism”](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-RENAISSANCE-HUMANISM-SHAKESPEARE.pdf)
+    “Humanism”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-RENAISSANCE-HUMANISM-SHAKESPEARE.pdf)
     (PDF)  
         
      Instructions:  Please scroll down and read the entirety of this
@@ -207,7 +207,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.2.3 Utopianism**
 -   **Reading: The Saylor Foundation's version of Thomas More’s Utopia**
     Link: The Saylor Foundation's version of Thomas More’s
-    [*Utopia*](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-UTOPIA.pdf)
+    [*Utopia*](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-UTOPIA.pdf)
     (PDF)  
         
      Also available in:  
@@ -261,7 +261,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.3.1 Queen Elizabeth—Life and Legacy**
 -   **Reading: The Saylor Foundation: Tudorhistory.org's "Elizabeth I:
     Queen of England"**
-    Link: The Saylor Foundation: Tudorhistory.org's "[Elizabeth I: Queen of England](http://www.saylor.org/site/wp-content/uploads/2012/10/ENGL401-Elizabeth-1-Tudorhistory.org_.pdf)" (PDF)  
+    Link: The Saylor Foundation: Tudorhistory.org's "[Elizabeth I: Queen of England](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ENGL401-Elizabeth-1-Tudorhistory.org_.pdf)" (PDF)  
       
      Also Available in:  
     [HTML](http://tudorhistory.org/elizabeth/queen.html)  
@@ -297,7 +297,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation's "Elizabethan Government and
     Power"**
     Link: The Saylor Foundation's "[Elizabethan Government and
-    Power](http://www.saylor.org/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-ELIZABETHAN-GOVERNMENT.pdf)"
+    Power](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-ELIZABETHAN-GOVERNMENT.pdf)"
     (PDF)  
         
      Instructions: Please read the passage detailing Elizabethan
@@ -401,7 +401,7 @@ Arts**
     Sidney’s Astrophil and
     Stella”](http://faculty.goucher.edu/eng211/sir_philip_sidney_.htm) (PDF);
     and Sir Philip Sidney’s [“Defense of
-    Poesy”](http://www.saylor.org/site/wp-content/uploads/2014/06/ENGL401The-Defense-of-Poesie.pdf) (HTML)  
+    Poesy”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/ENGL401The-Defense-of-Poesie.pdf) (HTML)  
         
      Also available in: (Astrophil and Stella)  
      [ePub format on Google
