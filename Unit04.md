@@ -46,7 +46,7 @@ Upon successful completion of this unit, the student will be able to:
     Richard III**
     Link:  The Saylor Foundation's version of William Shakespeare’s
     [*Richard
-    III*](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-RICHARD-III.pdf)
+    III*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-RICHARD-III.pdf)
     (PDF)  
         
      Also available in:  
@@ -108,7 +108,7 @@ Tetralogy** <span id="4.1.2"></span> 
     Henry V**
     Links: The Saylor Foundation's version of William Shakespeare’s
     [*Henry
-    V*](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-HENRY-V.pdf)
+    V*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-HENRY-V.pdf)
     (PDF) and The University of Puget Sound: [*Background Information on
     Henry
     V*](http://library.ups.edu/instruct/ricig/henryv/index.htm) (HTML)  

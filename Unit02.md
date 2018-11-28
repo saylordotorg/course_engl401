@@ -51,11 +51,11 @@ Upon successful completion of this unit, the student will be able to:
     Comedy II”**
     Link: Utah State University: Mark Damen’s *Classical Drama and
     Society*: [“Ancient Greek
-    Comedy,”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL401-2.1.1-EarlyGreekComedyandSatyrPlays.pdf)
+    Comedy,”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL401-2.1.1-EarlyGreekComedyandSatyrPlays.pdf)
     (PDF) [“Roman Comedy
-    I,”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL401-2.1.1-RomanComedyPart1-.pdf)
+    I,”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL401-2.1.1-RomanComedyPart1-.pdf)
     (PDF) and [“Roman Comedy
-    II”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL401-2.1.1-RomanComedyPart2.pdf)
+    II”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL401-2.1.1-RomanComedyPart2.pdf)
     (PDF)  
         
      Instructions: Read these pages, which are intended to provide you
@@ -75,7 +75,7 @@ Comedies** <span id="2.1.2"></span> 
     Introduction to the Role of Marriage in All’s Well that Ends Well**
     Links:  The Saylor Foundation's version of William
     Shakespeare’s [*All’s Well that Ends
-    Well*](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-ALLS-WELL-THAT-ENDS-WELL.pdf) (PDF)
+    Well*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-ALLS-WELL-THAT-ENDS-WELL.pdf) (PDF)
     and The Folger Shakespeare Library’s *[Introduction to the Role of
     Marriage in All’s Well that Ends
     Well](http://www.folger.edu/template.cfm?cid=877) *(HTML)  
@@ -147,7 +147,7 @@ Night** <span id="2.2.1"></span> 
     Night – A Comedy of Carnivalesque Proportions”**
     Links: The Saylor Foundation's version of William Shakespeare’s
     *[Twelfth
-    Night](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-TWELFTH-NIGHT.pdf) *(PDF) and
+    Night](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-TWELFTH-NIGHT.pdf) *(PDF) and
     Associated Content:  [“Shakespeare's The Twelfth Night – A Comedy of
     Carnivalesque
     Proportions”](https://web.archive.org/web/20090105062523/http://www.associatedcontent.com/article/605541/shakespeares_the_twelfth_night_a_comedy.html?cat=2) (HTML)  
@@ -190,7 +190,7 @@ id="2.3.1"></span> 
     A Midsummer Night’s Dream and The Folger Shakespeare Library’s
     Introduction to A Midsummer Night’s Dream**
     Links: The Saylor Foundation's version of *[A Midsummer Night’s
-    Dream](https://resources.saylor.org/archived/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-MIDSUMMER-NIGHTS-DREAM.pdf) *(PDF), The
+    Dream](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/SAYLOR.ORG-ENGL401-MIDSUMMER-NIGHTS-DREAM.pdf) *(PDF), The
     Folger Shakespeare Library’s *[Introduction to A Midsummer Night’s
     Dream](http://www.folger.edu/template.cfm?cid=901) *(HTML)  
         
